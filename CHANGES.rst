@@ -51,6 +51,13 @@ Release History
   (`#1145 <https://github.com/nengo/nengo/issues/1145>`_,
   `#1173 <https://github.com/nengo/nengo/pull/1173>`_)
 
+**Fixed**
+
+- The matrix multiplication example will now work with matrices of any size
+  and uses the product network for clarity.
+  (`#1159 <https://github.com/nengo/nengo/pull/1159>`_)
+
+
 2.2.0 (September 12, 2016)
 ==========================
 
